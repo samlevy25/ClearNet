@@ -1,7 +1,7 @@
 # ClearNet: Your Online Privacy Tool
 
 
-<<p align="center">
+<p align="center">
   <img src="ClearNet.png" alt="ClearNet Image" />
 </p>
 
