@@ -11,7 +11,7 @@ ClearNet is a Chrome extension designed to protect your online privacy. It enabl
 - **Search History Overview**: ClearNet offers a detailed overview of your search history, giving you better insights into your data.
 - **Informative Content**: Learn with ClearNet about the significance and implications of search history and cookies on your digital life.
 
-## How to Install
+
 
 ## How to Install
 
