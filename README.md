@@ -2,7 +2,7 @@
 
 
 <<p align="center">
-  <img src="images/clearnet.png" alt="ClearNet Image" width="300"/>
+  <img src="ClearNet.png" alt="ClearNet Image" />
 </p>
 
 
