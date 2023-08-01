@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "ClearNet",
+    "version": "1.0",
+    "description": "ClearNet enables you to delete search history and cookies, ensuring your online privacy. It also provides a search history overview and informative content about the significance and implications of search history and cookies."
+
+
+
+,
+    "permissions": [
+      "browsingData",
+      "cookies",
+      "tabs",
+      "history"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
