@@ -39,6 +39,3 @@ After installation, the ClearNet icon will appear on your browser's bar. Click o
 
 We welcome contributions from everyone. If you're interested in contributing to ClearNet, please check out our [contributing guidelines](link_to_contributing_guidelines).
 
-## License
-
-ClearNet is licensed under [MIT](link_to_license).
