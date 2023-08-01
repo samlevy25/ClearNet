@@ -13,8 +13,23 @@ ClearNet is a Chrome extension designed to protect your online privacy. It enabl
 
 ## How to Install
 
-1. Open the Chrome Web Store and search for "ClearNet".
-2. Click on "Add to Chrome" to install the extension.
+## How to Install
+
+1. Clone this repository to your local machine.
+    ```bash
+    git clone https://github.com/yourusername/clearnet-extension.git
+    ```
+
+2. Open Google Chrome and go to the Extensions page (`chrome://extensions`) or choose "More Tools" > "Extensions" from the menu.
+
+3. At the top right, turn on "Developer mode".
+
+4. Click on "Load Unpacked" at the top left.
+
+5. Navigate to the cloned repository and select the folder.
+
+6. The extension should now be installed. You should see the ClearNet icon on your browser's bar.
+
 
 ## How to Use
 
