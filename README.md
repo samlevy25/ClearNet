@@ -1,6 +1,6 @@
 # ClearNet: Your Online Privacy Tool
 
-![ClearNet Logo](link_to_logo)
+![ClearNet Logo](ClearNet.png)
 
 ClearNet is a Chrome extension designed to protect your online privacy. It enables you to easily erase your search history and cookies, ensuring the confidentiality of your personal information.
 
