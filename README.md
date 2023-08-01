@@ -35,7 +35,5 @@ ClearNet is a Chrome extension designed to protect your online privacy. It enabl
 
 After installation, the ClearNet icon will appear on your browser's bar. Click on it to open the ClearNet control panel and follow the instructions to erase your search history and cookies.
 
-## Contributing
 
-We welcome contributions from everyone. If you're interested in contributing to ClearNet, please check out our [contributing guidelines](link_to_contributing_guidelines).
 
